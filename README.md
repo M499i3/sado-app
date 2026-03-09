@@ -1,4 +1,3 @@
-
 # SADo App
 
 ## 1. Repository Setup
